@@ -1,0 +1,40 @@
+.todo-container {
+  background-color: lightblue;
+  margin: 0 auto;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.todo-header {
+  padding: 5px;
+  background-color: lightcoral;
+  border-radius: 10px 10px 0 0;
+  color: white;
+  font-style: italic;
+  font-family: Segoe UI;
+}
+
+.todo-body {
+  padding: 20px;
+}
+
+.input-group {
+}
+
+.task-input-field {
+  max-width: 500px;
+  margin-right: 20px;
+}
+
+.input-button-field {
+  background-color: orange;
+  font: bolder;
+  color: black;
+  font-size: 20px;
+  padding: -25px;
+}
+
+.input-button-field:hover {
+  background-color: green;
+  color: white;
+  border-radius: 50%;
+}

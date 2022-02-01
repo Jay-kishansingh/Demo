@@ -1,0 +1,15 @@
+.card-container {
+  width: 25%;
+  padding: 15px;
+  margin: 10px;
+  background-color: white;
+}
+
+.image-item {
+  width: 100%;
+}
+
+.card-item-link {
+  color: green;
+  text-decoration: none;
+}

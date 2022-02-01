@@ -1,0 +1,15 @@
+.list-container {
+  background-color: lightyellow;
+  border-radius: 0px 10px 10px 0px;
+  padding: 5px;
+  margin: 2px;
+  list-style: none;
+  color: blueviolet;
+}
+.far {
+  color: green;
+}
+
+.far:hover {
+  color: red;
+}
